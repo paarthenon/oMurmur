@@ -1,0 +1,6 @@
+#!/bin/zsh
+ocamlfind ocamlc -package ssl -g -linkpkg -o omurmur omurmur.ml
+
+
+
+
